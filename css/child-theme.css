@@ -14625,6 +14625,14 @@ figure.woocommerce-product-gallery__wrapper {
   color: #CC0000;
 }
 
+.mitglied img {
+  padding: 40px 100px 0 0;
+}
+
+.partner {
+  padding: 20px;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #007bff;
