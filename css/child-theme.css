@@ -14617,6 +14617,14 @@ figure.woocommerce-product-gallery__wrapper {
   display: block;
 }
 
+.navbar-brand img {
+  max-width: 200px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #CC0000;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #007bff;
