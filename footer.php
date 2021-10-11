@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <div class="col-12 col-md-6">
                     <p class="text-left">Eine Fachkommission von:</p>
                     <a href="https://www.bildungbern.ch" target="_blank"><img
-                                src="//wp-content/themes/bvss-child-theme/img/logo_berufsverband_bildung_bern.svg" id="bildungbern"
+                                src="/wp-content/themes/bvss-child-theme/img/logo_berufsverband_bildung_bern.svg" id="bildungbern"
                                 class="img-responsive"></a>
                 </div>
                 <div class="col-12 col-md-6">
