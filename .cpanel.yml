@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bvssch/beta/wordpress/wp-content/bvss-child-theme
+    - /bin/cp -R * $DEPLOYPATH
