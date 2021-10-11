@@ -21,12 +21,12 @@ $container = get_theme_mod( 'understrap_container_type' );
                 <div class="col-12 col-md-6">
                     <p class="text-left">Eine Fachkommission von:</p>
                     <a href="https://www.bildungbern.ch" target="_blank"><img
-                                src="/user/themes/bvss/images/logo_berufsverband_bildung_bern.svg" id="bildungbern"
+                                src="//wp-content/themes/bvss-child-theme/img/logo_berufsverband_bildung_bern.svg" id="bildungbern"
                                 class="img-responsive"></a>
                 </div>
                 <div class="col-12 col-md-6">
                     <p class="text-left">Mitglied im:</p>
-                    <a href="https://www.svss.ch/" target="_blank"><img src="/user/themes/bvss/images/svss.png"
+                    <a href="https://www.svss.ch/" target="_blank"><img src="/wp-content/themes/bvss-child-theme/img/svss.png"
                                                                         id="svss" class="img-responsive"></a>
                 </div>
             </div>
@@ -43,24 +43,24 @@ $container = get_theme_mod( 'understrap_container_type' );
             <div class="row logos1">
                 <div class="col-6 col-md-3">
                     <a href="https://campusperspektiven.ch/" target="_blank">
-                        <img src="/user/themes/bvss/images/perspektiven.jpg" id="perspektiven"
+                        <img src="/wp-content/themes/bvss-child-theme/img/perspektiven.jpg" id="perspektiven"
                              class="partner img-responsive">
                     </a>
                 </div>
                 <div class="col-6 col-md-3">
                 <a href="https://www.vistawell.ch/de_DE/" target="_blank">
-                    <img src="/user/themes/bvss/images/vistavell.png" id="vistawell" class="partner img-responsive">
+                    <img src="/wp-content/themes/bvss-child-theme/img/vistavell.png" id="vistawell" class="partner img-responsive">
                 </a>
                 </div>
                 <div class="col-6 col-md-3">
                 <a href="https://schumacher-sport.ch/content/news/index_ger.html" target="_blank">
-                    <img src="/user/themes/bvss/images/schumacher.jpg" id="schumacher"
+                    <img src="/wp-content/themes/bvss-child-theme/img/schumacher.jpg" id="schumacher"
                          class="partner img-responsive">
                 </a>
                 </div>
                 <div class="col-6 col-md-3">
                 <a href="https://www.radys.swiss/" target="_blank">
-                    <img src="/user/themes/bvss/images/radys.png" id="radys" class="partner img-responsive">
+                    <img src="/wp-content/themes/bvss-child-theme/img/radys.png" id="radys" class="partner img-responsive">
                 </a>
                 </div>
 
@@ -69,18 +69,18 @@ $container = get_theme_mod( 'understrap_container_type' );
             <div class="row logos2">
                 <div class="col-6 col-md-3">
                 <a href="https://friedrich-sport.ch/" target="_blank">
-                    <img src="/user/themes/bvss/images/friedrich.jpeg" id="friedrich" class="partner img-responsive">
+                    <img src="/wp-content/themes/bvss-child-theme/img/friedrich.jpeg" id="friedrich" class="partner img-responsive">
                  </a>
                 </div>
                 <div class="col-6 col-md-3">
                 <a href="https://www.tls.ch/" target="_blank">
-                    <img src="/user/themes/bvss/images/thometluescher.png" id="thometluescher"
+                    <img src="/wp-content/themes/bvss-child-theme/img/thometluescher.png" id="thometluescher"
                          class="partner img-responsive">
                  </a>
                 </div>
                 <div class="col-6 col-md-3">
                 <a href="https://thoemus.ch/" target="_blank">
-                    <img src="/user/themes/bvss/images/thoemus.png" id="thoemus" class="partner img-responsive">
+                    <img src="/wp-content/themes/bvss-child-theme/img/thoemus.png" id="thoemus" class="partner img-responsive">
                  </a>
                 </div>
                 <div class="col-6 col-md-3">
