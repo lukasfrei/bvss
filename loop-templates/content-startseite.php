@@ -17,19 +17,52 @@ defined( 'ABSPATH' ) || exit;
 
 	<?php echo get_the_post_thumbnail( $post->ID, 'full' ); ?>
 
-	<div class="entry-content">
-
-		<?php
+	</div>
+	</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="entry-content">
+				<div class="col-md-12">
+					<?php
 		the_content();
-		understrap_link_pages();
 		?>
 
-	</div><!-- .entry-content -->
+				</div><!-- .entry-content -->
+			</div>
+		</div>
+		<div class="row">
 
-	<footer class="entry-footer">
+			<div class="col-12 col-md-4">
+				<div class="box">
+					<h2>Aktuell</h2>
+					<p>
+						<a href="/aktuell">&gt;&gt; mehr Infos</a>
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-4">
+				<div class="box">
+					<h2>Mitglied werden</h2>
+					<p>
+						<a href="/verband/mitgliedschaft">&gt;&gt; mehr Infos</a>
+					</p>
+				</div>
+			</div>
+			<div class="col-12 col-md-4">
+				<div class="box">
+					<h2>Forum für Sport</h2>
+					<p>
+						<a href="/forum-fuer-sport">&gt;&gt; mehr Infos</a>
+					</p>
+				</div>
+			</div>
 
-		<?php understrap_edit_post_link(); ?>
+		</div>
+		<footer class="entry-footer">
 
-	</footer><!-- .entry-footer -->
+			<?php understrap_edit_post_link(); ?>
+
+		</footer><!-- .entry-footer -->
 
 </article><!-- #post-## -->
