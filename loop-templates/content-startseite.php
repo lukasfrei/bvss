@@ -35,9 +35,9 @@ defined( 'ABSPATH' ) || exit;
 
 			<div class="col-12 col-md-4">
 				<div class="box">
-					<h2>Aktuell</h2>
+					<h2>Mitgliederbereich</h2>
 					<p>
-						<a href="/aktuell">&gt;&gt; mehr Infos</a>
+						<a href="/intern">&gt;&gt; einloggen</a>
 					</p>
 				</div>
 			</div>
