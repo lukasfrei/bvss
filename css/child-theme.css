@@ -14653,7 +14653,7 @@ h1, h2 {
   padding: 20px 30px;
 }
 
-#page-wrapper {
+#page-wrapper, .index-wrapper {
   padding: 0;
 }
 
