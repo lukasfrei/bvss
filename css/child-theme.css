@@ -14661,6 +14661,15 @@ h1, h2 {
   font-size: 20px;
 }
 
+.blog-vorschau {
+  margin-bottom: 10px;
+}
+
+.entry-meta {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #007bff;
