@@ -14675,6 +14675,10 @@ h1, h2 {
   font-size: 14px;
 }
 
+#main-nav {
+  padding: 1rem 1rem;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #007bff;
