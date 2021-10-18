@@ -14705,7 +14705,7 @@ h3 {
   font-size: 22px;
 }
 
-p {
+p, li {
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
   font-size: 18px;
@@ -14746,6 +14746,12 @@ p {
   width: 100%;
 }
 
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.7rem;
+    padding-left: 0.7rem;
+  }
+}
 .has-blue-color,
 .has-blue-color:visited {
   color: #007bff;
