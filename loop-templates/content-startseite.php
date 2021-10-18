@@ -15,7 +15,7 @@ defined( 'ABSPATH' ) || exit;
 
 	</header><!-- .entry-header -->
 
-	<?php echo get_the_post_thumbnail( $post->ID, 'full' ); ?>
+	<?php echo get_the_post_thumbnail( $post->ID, 'full', ["class" => "hero-image"]); ?>
 
 	</div>
 	</div>
